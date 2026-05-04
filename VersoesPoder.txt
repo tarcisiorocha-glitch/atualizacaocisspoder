@@ -8,4 +8,4 @@ https://repo.ciss.com.br/download/36fcf9a5982de8c8c746988f1cf2a8c7
 https://repo.ciss.com.br/download/7134b8f3ff8930a938f86e8944bf9e50
 
 #Instalador do  22.0.2.395*
-https://repo.ciss.com.br/download/7134b8f3ff8930a938f86e8944bf9e50
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hsImWKpb3qlyFwAKW7T668XwOdfXqGI0mMd9fn8Fatxwaj02u7ltrGtSorxTPyJX/n/gr31qsz5rdso/b/FILES/o/CISSPoder_Instalador_x32_x64_22.0.2.363.exe
