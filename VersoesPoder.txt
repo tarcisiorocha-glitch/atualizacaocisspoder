@@ -1,11 +1,11 @@
-#CISSPODER - Nova 22.0.3.422*
+#CISSPoder Atualização - Nova 22.0.3.422*
 https://repo.ciss.com.br/download/76250ecd7cc3e9064d4e1d2f6b06a7ca
 
-#CISSPODER - Intermediaria 22.0.3.261#
+#CISSPoder Atualização- Intermediaria 22.0.3.261*
 https://repo.ciss.com.br/download/36fcf9a5982de8c8c746988f1cf2a8c7
 
-#CISSPODER - Estável 22.0.2.395*
+#CISSPoder Atualização - Estável 22.0.2.395*
 https://repo.ciss.com.br/download/7134b8f3ff8930a938f86e8944bf9e50
 
-#Instalador do CissPoder 22.0.2.395*
+#CISSPoder Instalador - 22.0.2.395*
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hsImWKpb3qlyFwAKW7T668XwOdfXqGI0mMd9fn8Fatxwaj02u7ltrGtSorxTPyJX/n/gr31qsz5rdso/b/FILES/o/CISSPoder_Instalador_x32_x64_22.0.2.363.exe
