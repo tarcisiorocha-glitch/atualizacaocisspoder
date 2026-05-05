@@ -1,3 +1,6 @@
+#CISSPoder Instalador - 22.0.2.395
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hsImWKpb3qlyFwAKW7T668XwOdfXqGI0mMd9fn8Fatxwaj02u7ltrGtSorxTPyJX/n/gr31qsz5rdso/b/FILES/o/CISSPoder_Instalador_x32_x64_22.0.2.363.exe
+
 #CISSPoder Atualização - Nova 22.0.3.422
 https://repo.ciss.com.br/download/76250ecd7cc3e9064d4e1d2f6b06a7ca
 
@@ -7,5 +10,21 @@ https://repo.ciss.com.br/download/36fcf9a5982de8c8c746988f1cf2a8c7
 #CISSPoder Atualização - Estável 22.0.2.395
 https://repo.ciss.com.br/download/7134b8f3ff8930a938f86e8944bf9e50
 
-#CISSPoder Instalador - 22.0.2.395
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hsImWKpb3qlyFwAKW7T668XwOdfXqGI0mMd9fn8Fatxwaj02u7ltrGtSorxTPyJX/n/gr31qsz5rdso/b/FILES/o/CISSPoder_Instalador_x32_x64_22.0.2.363.exe
+#CISSFront Monitor -  Instaladorx64 - 12.0.2.203
+https://gr31qsz5rdso.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/I62d4wr509vnspCLiiqRIcN9ytb2PrgiINoIclKU4vXbChNXKmdFcBIIfffjwLv4/n/gr31qsz5rdso/b/FILES/o/CISSFront_Monitor_Instalador_postgres_x64_12.0.2.203.exe
+
+#CISSFront Frente de Caixa -  Instalador - 12.0.2.203
+https://gr31qsz5rdso.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/3Txdk06ho7sKps23esXd0KJ2t2mYBnJip7GloCdOh5nqmScsEIa1qCBa8Qg1EWRo/n/gr31qsz5rdso/b/FILES/o/CISSFront_Frente_de_Caixa_Instalador_postgres_12.0.2.203.exe
+
+#CISSFront Monitor - Atualização - Nova 12.0.3.413
+https://repo.ciss.com.br/download/60e1cb993e4a7bb42748df8aede866e4
+
+#CISSFront Frente de Caixa - Atualização - Nova 12.0.3.413
+https://repo.ciss.com.br/download/671d2ab3fd82a30bcda7c9d9861778ef
+
+#CISSFront Monitor - Atualização - Intermediaria 12.0.3.330
+https://repo.ciss.com.br/download/85966636e5ead42e71afc14f2e7b17e1
+
+#CISSFront Frente de Caixa - Atualização - 12.0.3.330
+https://repo.ciss.com.br/download/7c04dc11cd85d9a4b440609055cff237
+
