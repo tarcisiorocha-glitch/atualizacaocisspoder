@@ -1,27 +1,27 @@
 CISSPODER
 _______________________________________________________________
-#CISSPoder Instalador - 22.0.2.395
+#CISSPoder Instalador - 22.0.2.363
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/hsImWKpb3qlyFwAKW7T668XwOdfXqGI0mMd9fn8Fatxwaj02u7ltrGtSorxTPyJX/n/gr31qsz5rdso/b/FILES/o/CISSPoder_Instalador_x32_x64_22.0.2.363.exe
 
-#CISSPoder Atualização - Nova 22.0.3.422
-https://repo.ciss.com.br/download/76250ecd7cc3e9064d4e1d2f6b06a7ca
+#CISSPoder Atualização - Nova 22.0.3.429
+https://repo.ciss.com.br/download/4f8651c2825961e1f89c528c9d4bcbde
 
-#CISSPoder Atualização- Intermediária 22.0.3.261
-https://repo.ciss.com.br/download/36fcf9a5982de8c8c746988f1cf2a8c7
+#CISSPoder Atualização- Intermediária 22.0.3.267
+https://repo.ciss.com.br/download/b40e250c0a584342f909b91e3c1971a4
 
-#CISSPoder Atualização - Estável 22.0.2.395
-https://repo.ciss.com.br/download/7134b8f3ff8930a938f86e8944bf9e50
+#CISSPoder Atualização - Estável 22.0.2.398
+https://repo.ciss.com.br/download/e7c076f947053ac65e740c956d3c3495
 _______________________________________________________________
 MONITOR FRONT
 
 #CISSFront Monitor -  Instalador - 12.0.2.203
 https://gr31qsz5rdso.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/I62d4wr509vnspCLiiqRIcN9ytb2PrgiINoIclKU4vXbChNXKmdFcBIIfffjwLv4/n/gr31qsz5rdso/b/FILES/o/CISSFront_Monitor_Instalador_postgres_x64_12.0.2.203.exe
 
-#CISSFront Monitor - Atualização - Nova 12.0.3.413
-https://repo.ciss.com.br/download/60e1cb993e4a7bb42748df8aede866e4
+#CISSFront Monitor - Atualização - Nova 12.0.3.417
+https://repo.ciss.com.br/download/e924bd7afe0e570b553daadf2558a4de
 
-#CISSFront Monitor - Atualização - Intermediária 12.0.3.330
-https://repo.ciss.com.br/download/85966636e5ead42e71afc14f2e7b17e1
+#CISSFront Monitor - Atualização - Intermediária 12.0.3.334
+https://repo.ciss.com.br/download/f7135cfa78a1fed781045043e8a62b4e
 
 #CISSFront Monitor - Atualização - Estável 12.0.3.240
 https://repo.ciss.com.br/download/4ec42e2559e61f3508f33bab4ac99ba2
@@ -32,17 +32,20 @@ FRENTE DE CAIXA FRONT
 #CISSFront Frente de Caixa -  Instalador - 12.0.2.203
 https://gr31qsz5rdso.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/3Txdk06ho7sKps23esXd0KJ2t2mYBnJip7GloCdOh5nqmScsEIa1qCBa8Qg1EWRo/n/gr31qsz5rdso/b/FILES/o/CISSFront_Frente_de_Caixa_Instalador_postgres_12.0.2.203.exe
 
-#CISSFront Frente de Caixa - Atualização - Nova 12.0.3.413
-https://repo.ciss.com.br/download/671d2ab3fd82a30bcda7c9d9861778ef
+#CISSFront Frente de Caixa - Atualização - Nova 12.0.3.417
+https://repo.ciss.com.br/download/fd20d2efbe56fed003c4bdbfaf59432b
 
-#CISSFront Frente de Caixa - Atualização - Intermediária 12.0.3.330
-https://repo.ciss.com.br/download/7c04dc11cd85d9a4b440609055cff237
+#CISSFront Frente de Caixa - Atualização - Intermediária 12.0.3.334
+https://repo.ciss.com.br/download/2dbbcab4404f5fe8ac7a8f6533e53a3e
 
 #CISSFront Frente de Caixa - Atualização - Estável 12.0.3.240
 https://repo.ciss.com.br/download/ef5d6662e77754e91b87423db3895f94
 
+________________________________________________________________
+MONITOR NF-E
 
+#NF-E -  Instalador - 22.0.2.360
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/k29QosxR9eYZAxERhDBsWfNo5KimAIftFY-8ZsLSubfOthAt9Bb_wrzVCNj6nMSS/n/gr31qsz5rdso/b/FILES/o/NFe_4.00_Instalador_22.0.2.360.exe
 
-
-
-
+##NF-E - Atualização - Nova 22.0.2.397
+https://repo.ciss.com.br/download/3c8dd2b07e5e4a40c366dc670f24f8c3
