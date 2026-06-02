@@ -47,5 +47,5 @@ MONITOR NF-E
 #NF-E -  Instalador - 22.0.2.360
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/k29QosxR9eYZAxERhDBsWfNo5KimAIftFY-8ZsLSubfOthAt9Bb_wrzVCNj6nMSS/n/gr31qsz5rdso/b/FILES/o/NFe_4.00_Instalador_22.0.2.360.exe
 
-##NF-E - Atualização - Nova 22.0.2.397
+#NF-E - Atualização - Nova 22.0.2.397
 https://repo.ciss.com.br/download/3c8dd2b07e5e4a40c366dc670f24f8c3
